@@ -1,4 +1,5 @@
-**Candidate Video Submission & Review Platform**\n
+**Candidate Video Submission & Review Platform**
+
 **Project Overview**
 This project is a Candidate Video Submission & Review Platform, designed to streamline the process of collecting candidate information, resumes, and video introductions in one place. Candidates can fill out their profiles, upload resumes, and record a short introduction video directly in the browser. Recruiters or hiring managers can then review the candidate details and videos efficiently.
 
